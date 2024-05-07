@@ -12,22 +12,22 @@ const db = ref({
   cards: [{
     name: 'Game',
     tool: 'Godot',
-    image: '/public/images/Godot-bg.png',
-    icon: '/public/images/icon.svg',
+    image: '/images/Godot-bg.png',
+    icon: '/images/icon.svg',
     id: 1
   },
   {
     name: 'Web',
     tool: 'Java Spring MVC',
     image: 'unsplash-photo-2.jpg',
-    icon: '/public/images/spring-icon-svgrepo-com.svg',
+    icon: '/images/spring-icon-svgrepo-com.svg',
     id: 2
   },
   {
     name: 'Desktop app',
     tool: 'C++',
-    image: '/public/images/desktop-app.png',
-    icon: '/public/images/cplusplus-svgrepo-com.svg',
+    image: '/images/desktop-app.png',
+    icon: '/images/cplusplus-svgrepo-com.svg',
     id: 3
   }]
 }
