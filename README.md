@@ -11,4 +11,4 @@
 - Tại cửa sổ dùng lệnh thư mục đề tài, nhập  ```npm i``` để khởi tạo đề tài.
 - Lệnh khởi chạy: ```npm run dev```
 - Ứng dụng được khởi chạy tại: [cổng 5173](http://127.0.0.1:5173/)
-## [Sản phẩm demo](https://075phambuinamphuong.onrender.com)
+## Sản phẩm demo: [Render](https://075phambuinamphuong.onrender.com)/[Github](https://phuongp2003.github.io/vuejs_cnpm/)
